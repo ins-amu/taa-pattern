@@ -13,10 +13,12 @@ We however supply substitute data to allow running the code: `data/Geometry/id00
 The directory `data/Recordings/id001/` contains two simulated seizures, generated using the aforementioned cortical surface and spreading seizure model described in the paper.
 To use the code with your data, place the data in the directory in the same format with sequentially numbered subjects (`id001`, `id002`, ...).
 
-<img src="etc/cortex-SI.png" height="250">
-<img src="etc/cortex-RL.png" height="250">
-<img src="etc/rec_0000.png"  height="250">
-<img src="etc/rec_0001.png"  height="250">
+<p float="left">
+<img src="etc/cortex-SI.png" height="200">
+<img src="etc/cortex-RL.png" height="200">
+<img src="etc/rec_0000.png"  height="200">
+<img src="etc/rec_0001.png"  height="200">
+ </p>
 
 ## Code
 
