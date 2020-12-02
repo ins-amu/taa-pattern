@@ -14,10 +14,12 @@ The directory `data/Recordings/id001/` contains two simulated seizures, generate
 To use the code with your data, place the data in the directory in the same format with sequentially numbered subjects (`id001`, `id002`, ...).
 
 <p float="left">
-<img src="etc/cortex-SI.png" height="200">
-<img src="etc/cortex-RL.png" height="200">
-<img src="etc/rec_0000.png"  height="200">
-<img src="etc/rec_0001.png"  height="200">
+<img src="etc/cortex-SI.png" height="220">
+<img src="etc/cortex-RL.png" height="220">
+ </p>
+ <p float="left">
+<img src="etc/rec_0000.png"  height="220">
+<img src="etc/rec_0001.png"  height="220">
  </p>
 
 ## Code
