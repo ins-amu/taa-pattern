@@ -1,0 +1,10 @@
+
+data/
+run/
+notebooks/
+
+__pycache__/
+.ipynb_checkpoints/
+.snakemake
+
+README.html
